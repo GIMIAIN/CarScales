@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Весы Автомобильные</string>
+    <string name="tab_main">Основная</string>
+    <string name="tab_history">История</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="tab_info">Информация</string>
+
+    <!-- Main Screen -->
+    <string name="current_weight">Текущий вес</string>
+    <string name="kg">кг</string>
+    <string name="driver_name">ФИО водителя</string>
+    <string name="vehicle_number">Номер автомобиля</string>
+    <string name="cargo_description">Описание груза</string>
+    <string name="save_weighing">Сохранить взвешивание</string>
+    <string name="test_weight">Симулировать вес (тест)</string>
+    <string name="save_success">✓ Взвешивание сохранено!</string>
+    <string name="confirm_save">Сохранить взвешивание?</string>
+
+    <!-- History Screen -->
+    <string name="filter_day">День</string>
+    <string name="filter_week">Неделя</string>
+    <string name="filter_month">Месяц</string>
+    <string name="search_hint">Поиск (водитель, машина, груз)</string>
+    <string name="no_data">Нет данных взвешивания</string>
+
+    <!-- Settings Screen -->
+    <string name="connection_settings">Параметры подключения TCP</string>
+    <string name="server_ip">IP адрес сервера</string>
+    <string name="port">Порт</string>
+    <string name="save_settings">Сохранить параметры</string>
+    <string name="settings_saved">✓ Параметры сохранены:</string>
+    <string name="terminal_info">Данные терминала CAS CI200A</string>
+    <string name="protocol">Протокол: RS-485</string>
+    <string name="baudrate">Скорость передачи: 9600 бод</string>
+    <string name="data_format">Формат данных: ASCII</string>
+    <string name="frequency">Периодичность: Непрерывная</string>
+
+    <!-- Info Screen -->
+    <string name="app_title">Весы Автомобильные</string>
+    <string name="version">Версия 1.0</string>
+    <string name="developer">Разработчик</string>
+    <string name="company_name">ООО Тенсиб</string>
+    <string name="city">Город: Красноярск</string>
+    <string name="country">Россия</string>
+    <string name="contacts">Контактные данные</string>
+    <string name="email">Email: info@tensib.ru</string>
+    <string name="phone">Телефон: +7 (391) XXX-XX-XX</string>
+    <string name="website">Веб-сайт: www.tensib.ru</string>
+    <string name="copyright">© 2025 ООО Тенсиб. Все права защищены.</string>
+</resources>
